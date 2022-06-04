@@ -1,0 +1,3 @@
+[submodule "app/electora_app"]
+	path = app/electora_app
+	url = git@github.com:theref/electora_app.git
